@@ -1,0 +1,1500 @@
+[{
+  "_id": 1,
+  "Codigo_expediente": 6161,
+  "Expediente": "Suministro de materiales necesarios para la conservación y el mantenimiento de vías públicas y la realización de obras y servicios",
+  "Tipo_contrato": "SuministrosAdquisición",
+  "Estado": "Publicada",
+  "Importe": 200000,
+  "Fecha": "2020-09-01T00:00:00",
+  "Organo_contratacion": "Junta de Gobierno del Ayuntamiento de Alcalá de Henares",
+  "Subvencion_estado": "No",
+  "Concejalias": [
+    "Economia",
+    "Urbanismo"
+  ]
+},
+{
+  "_id": 8,
+  "Codigo_expediente": 6173,
+  "Expediente": "Obras y servicios que tienen por objeto la ejecución de las operaciones para la mejora de la movilidad mediante la reforma y la renovación de aceras y asfaltos en el municipio de Alcalá de Henares.",
+  "Tipo_contrato": "ObrasConstrucción",
+  "Estado": "Publicada",
+  "Importe": 5785123.97,
+  "Fecha": "2019-11-12T00:00:00",
+  "Organo_contratacion": "Junta de Gobierno del Ayuntamiento de Alcalá de Henares",
+  "Subvencion_estado": "No",
+  "Concejalias": [
+    "Economia",
+    "Urbanismo"
+  ]
+},
+{
+  "_id": 6,
+  "Codigo_expediente": 6176,
+  "Expediente": "Elaboración del censo canino municipal mediante el genotipado de ADN, así como la extracción y el análisis del ADN para la identificación de perros en el término municipal de Alcalá de Henares.",
+  "Tipo_contrato": "ServiciosOtros servicios",
+  "Estado": "Publicada",
+  "Importe": 37190.08,
+  "Fecha": "2020-07-01T00:00:00",
+  "Organo_contratacion": "Junta de Gobierno del Ayuntamiento de Alcalá de Henares",
+  "Subvencion_estado": "Si",
+  "Concejalias": [
+    "Juventud",
+    "Deportes"
+  ]
+},
+{
+  "_id": 5,
+  "Codigo_expediente": 6191,
+  "Expediente": "Contrato mixto de suministro y obras consistente en la renovación de los sistemas de climatización de diversos edificios municipales.",
+  "Tipo_contrato": "SuministrosAdquisición",
+  "Estado": "Publicada",
+  "Importe": 359550.03,
+  "Fecha": "2020-07-01T00:00:00",
+  "Organo_contratacion": "Junta de Gobierno del Ayuntamiento de Alcalá de Henares",
+  "Subvencion_estado": "No",
+  "Concejalias": [
+    "Economia",
+    "Urbanismo"
+  ]
+},
+{
+  "_id": 9,
+  "Codigo_expediente": 6150,
+  "Expediente": "Servicio de Centro de Recursos y Actividades y Centro de Formación en el tiempo libre de la Concejalía de Juventud e Infancia",
+  "Tipo_contrato": "ServiciosOtros servicios",
+  "Estado": "Publicada",
+  "Importe": 178346.92,
+  "Fecha": "2019-12-12T00:00:00",
+  "Organo_contratacion": "Junta de Gobierno del Ayuntamiento de Alcalá de Henares",
+  "Subvencion_estado": "No",
+  "Concejalias": [
+    "Economia",
+    "Urbanismo"
+  ]
+},
+{
+  "_id": 2,
+  "Codigo_expediente": 6183,
+  "Expediente": "Suministro de materiales para el mantenimiento y conservación de los edificios.",
+  "Tipo_contrato": "SuministrosAdquisición",
+  "Estado": "Publicada",
+  "Importe": 99173.55,
+  "Fecha": "2020-09-01T00:00:00",
+  "Organo_contratacion": "Junta de Gobierno del Ayuntamiento de Alcalá de Henares",
+  "Subvencion_estado": "Si",
+  "Concejalias": [
+    "Juventud",
+    "Deportes"
+  ]
+},
+{
+  "_id": 3,
+  "Codigo_expediente": 6188,
+  "Expediente": "Suministro de materiales para el mantenimiento de EE.II., C.E.I.P y escuelas de adultos.",
+  "Tipo_contrato": "SuministrosAdquisición",
+  "Estado": "Publicada",
+  "Importe": 82644.63,
+  "Fecha": "2020-08-01T00:00:00",
+  "Organo_contratacion": "Junta de Gobierno del Ayuntamiento de Alcalá de Henares",
+  "Subvencion_estado": "Si",
+  "Concejalias": [
+    "Juventud",
+    "Deportes"
+  ]
+},
+{
+  "_id": 4,
+  "Codigo_expediente": 6178,
+  "Expediente": "Instalación de juegos infantiles de integración, área de equipos de entrenamiento físico y carteles para la señalización de calles en el Parque O´Donnell. IFS 2019.",
+  "Tipo_contrato": "SuministrosAdquisición",
+  "Estado": "Publicada",
+  "Importe": 268533.94,
+  "Fecha": "2020-08-01T00:00:00",
+  "Organo_contratacion": "Junta de Gobierno del Ayuntamiento de Alcalá de Henares",
+  "Subvencion_estado": "No",
+  "Concejalias": [
+    "Economia",
+    "Urbanismo"
+  ]
+},
+{
+  "_id": 7,
+  "Codigo_expediente": 6170,
+  "Expediente": "Obras de reforma de pista deportiva “La Florida” en el Parque O’Donnell. IFS 2019.",
+  "Tipo_contrato": "ObrasConstrucción",
+  "Estado": "Publicada",
+  "Importe": 167906.89,
+  "Fecha": "2019-12-30T00:00:00",
+  "Organo_contratacion": "Junta de Gobierno del Ayuntamiento de Alcalá de Henares",
+  "Subvencion_estado": "No",
+  "Concejalias": [
+    "Economia",
+    "Urbanismo"
+  ]
+},
+{
+  "_id": 10,
+  "Codigo_expediente": 6158,
+  "Expediente": "Servicio de tratamiento de mopas para el servicio de limpieza",
+  "Tipo_contrato": "ServiciosServicios de mantenimiento y reparación",
+  "Estado": "Evaluación",
+  "Importe": 26664,
+  "Fecha": "2019-11-14T00:00:00",
+  "Organo_contratacion": "Junta de Gobierno del Ayuntamiento de Alcalá de Henares",
+  "Subvencion_estado": "Si",
+  "Concejalias": [
+    "Juventud",
+    "Deportes"
+  ]
+},
+{
+  "_id": 11,
+  "Codigo_expediente": 6140,
+  "Expediente": "Recogida de aceite vegetal usado de origen domiciliario.",
+  "Tipo_contrato": "ServiciosOtros servicios",
+  "Estado": "Evaluación",
+  "Importe": 5,
+  "Fecha": "2019-11-14T00:00:00",
+  "Organo_contratacion": "Junta de Gobierno del Ayuntamiento de Alcalá de Henares",
+  "Subvencion_estado": "Si",
+  "Concejalias": [
+    "Juventud",
+    "Deportes"
+  ]
+},
+{
+  "_id": 15,
+  "Codigo_expediente": 6160,
+  "Expediente": "Servicio de Talleres de la Concejalía de Igualdad",
+  "Tipo_contrato": "ServiciosOtros servicios",
+  "Estado": "Evaluación",
+  "Importe": 42660,
+  "Fecha": "2019-12-11T00:00:00",
+  "Organo_contratacion": "Junta de Gobierno del Ayuntamiento de Alcalá de Henares",
+  "Subvencion_estado": "Si",
+  "Concejalias": [
+    "Juventud",
+    "Deportes"
+  ]
+},
+{
+  "_id": 14,
+  "Codigo_expediente": 6167,
+  "Expediente": "Servicio de Renovación y Mantenimiento de Licencias Adobe y Autodesk para el Ayuntamiento",
+  "Tipo_contrato": "ServiciosServicios de informática y servicios conexos",
+  "Estado": "Evaluación",
+  "Importe": 28925.62,
+  "Fecha": "2019-11-13T00:00:00",
+  "Organo_contratacion": "Junta de Gobierno del Ayuntamiento de Alcalá de Henares",
+  "Subvencion_estado": "Si",
+  "Concejalias": [
+    "Juventud",
+    "Deportes"
+  ]
+},
+{
+  "_id": 13,
+  "Codigo_expediente": 6157,
+  "Expediente": "Servicio de mantenimiento de la aplicación de gestión de nóminas y recursos humanos del Excelentísimo Ayuntamiento de Alcalá de Henares",
+  "Tipo_contrato": "ServiciosServicios de informática y servicios conexos",
+  "Estado": "Evaluación",
+  "Importe": 20661.16,
+  "Fecha": "2019-11-13T00:00:00",
+  "Organo_contratacion": "Junta de Gobierno del Ayuntamiento de Alcalá de Henares",
+  "Subvencion_estado": "Si",
+  "Concejalias": [
+    "Juventud",
+    "Deportes"
+  ]
+},
+{
+  "_id": 12,
+  "Codigo_expediente": 6159,
+  "Expediente": "Servicio de instalación y mantenimiento de alumbrado decorativo para las fiestas de los Santos Niños, Ferias y Fiestas de Agosto, Fiestas de Nuestra Señora del Val y Navidad",
+  "Tipo_contrato": "ServiciosOtros servicios",
+  "Estado": "Resuelta",
+  "Importe": 123966.94,
+  "Fecha": "2019-10-23T00:00:00",
+  "Organo_contratacion": "Junta de Gobierno del Ayuntamiento de Alcalá de Henares",
+  "Subvencion_estado": "Solicitud en proceso",
+  "Concejalias": [
+    "Tiempo libre",
+    "Ecologismo"
+  ]
+},
+{
+  "_id": 17,
+  "Codigo_expediente": 6169,
+  "Expediente": "Suministros energéticos (electricidad y gas) de edificios e instalaciones del municipio de Alcalá de Henares",
+  "Tipo_contrato": "SuministrosAdquisición",
+  "Estado": "Evaluación",
+  "Importe": 3867768.58,
+  "Fecha": "2019-11-26T00:00:00",
+  "Organo_contratacion": "Junta de Gobierno del Ayuntamiento de Alcalá de Henares",
+  "Subvencion_estado": "No",
+  "Concejalias": [
+    "Economia",
+    "Urbanismo"
+  ]
+},
+{
+  "_id": 16,
+  "Codigo_expediente": 6159,
+  "Expediente": "BISServicio de instalación y mantenimiento de alumbrado decorativo para las fiestas de los Santos Niños, Ferias y Fiestas de Agosto, Fiestas de Nuestra Señora del Val y Navidad",
+  "Tipo_contrato": "ServiciosOtros servicios",
+  "Estado": "Evaluación",
+  "Importe": 123966.94,
+  "Fecha": "2019-04-11T00:00:00",
+  "Organo_contratacion": "Junta de Gobierno del Ayuntamiento de Alcalá de Henares",
+  "Subvencion_estado": "No",
+  "Concejalias": [
+    "Economia",
+    "Urbanismo"
+  ]
+},
+{
+  "_id": 18,
+  "Codigo_expediente": 6139,
+  "Expediente": "Servicio de control de calidad de los servicios de limpieza viaria y recogida de residuos sólidos urbanos.",
+  "Tipo_contrato": "ServiciosOtros servicios",
+  "Estado": "Evaluación",
+  "Importe": 146313.74,
+  "Fecha": "2019-11-26T00:00:00",
+  "Organo_contratacion": "Junta de Gobierno del Ayuntamiento de Alcalá de Henares",
+  "Subvencion_estado": "No",
+  "Concejalias": [
+    "Economia",
+    "Urbanismo"
+  ]
+},
+{
+  "_id": 19,
+  "Codigo_expediente": 6172,
+  "Expediente": "Obras de reparación de fachadas y cubiertas del edificio de la C/ Daoiz y Velarde, 28.",
+  "Tipo_contrato": "ObrasConstrucción",
+  "Estado": "Evaluación",
+  "Importe": 267697.12,
+  "Fecha": "2019-11-20T00:00:00",
+  "Organo_contratacion": "Junta de Gobierno del Ayuntamiento de Alcalá de Henares",
+  "Subvencion_estado": "No",
+  "Concejalias": [
+    "Economia",
+    "Urbanismo"
+  ]
+},
+{
+  "_id": 21,
+  "Codigo_expediente": 6092,
+  "Expediente": "Coordinación del programa redes para el tiempo libre -otra forma de moverte- de la Concejalía de Juventud.",
+  "Tipo_contrato": "ServiciosServicios de esparcimiento, culturales y deportivos",
+  "Estado": "Resuelta",
+  "Importe": 135171.39,
+  "Fecha": "2019-04-06T00:00:00",
+  "Organo_contratacion": "Junta de Gobierno del Ayuntamiento de Alcalá de Henares",
+  "Subvencion_estado": "No",
+  "Concejalias": [
+    "Economia",
+    "Urbanismo"
+  ]
+},
+{
+  "_id": 22,
+  "Codigo_expediente": 6059,
+  "Expediente": "Urbanización de Rehabilitación del Parque Manuel Azaña en Alcalá de Henares. Cofinanciado con Fondos FEDER dentro de la iniciativa EDUSIAH",
+  "Tipo_contrato": "ObrasConstrucción",
+  "Estado": "Resuelta",
+  "Importe": 277326.78,
+  "Fecha": "2018-10-15T00:00:00",
+  "Organo_contratacion": "Junta de Gobierno del Ayuntamiento de Alcalá de Henares",
+  "Subvencion_estado": "Solicitud en proceso",
+  "Concejalias": [
+    "Tiempo libre",
+    "Ecologismo"
+  ]
+},
+{
+  "_id": 20,
+  "Codigo_expediente": 6079,
+  "Expediente": "Suministro de contenedores para la recogida de RSU y el Suministro e instalación de dos cuartos fríos para la mejora del servicio de recogida de RSU.",
+  "Tipo_contrato": "SuministrosAdquisición",
+  "Estado": "Parcialmente Resuelta",
+  "Importe": 312396.69,
+  "Fecha": "2019-01-24T00:00:00",
+  "Organo_contratacion": "Junta de Gobierno del Ayuntamiento de Alcalá de Henares",
+  "Subvencion_estado": "No",
+  "Concejalias": [
+    "Economia",
+    "Urbanismo"
+  ]
+},
+{
+  "_id": 29,
+  "Codigo_expediente": 6077,
+  "Expediente": "Oficina de intermediación de la vivienda y vivienda joven.",
+  "Tipo_contrato": "ServiciosOtros servicios",
+  "Estado": "Resuelta",
+  "Importe": 152220.52,
+  "Fecha": "2019-05-03T00:00:00",
+  "Organo_contratacion": "Junta de Gobierno del Ayuntamiento de Alcalá de Henares",
+  "Subvencion_estado": "No",
+  "Concejalias": [
+    "Economia",
+    "Urbanismo"
+  ]
+},
+{
+  "_id": 24,
+  "Codigo_expediente": 6100,
+  "Expediente": "Alquiler de una carretilla contrapesada eléctrica para el Servicio de almacén del Parque de Servicios.",
+  "Tipo_contrato": "SuministrosAlquiler",
+  "Estado": "Resuelta",
+  "Importe": 6500,
+  "Fecha": "2019-03-26T00:00:00",
+  "Organo_contratacion": "Junta de Gobierno del Ayuntamiento de Alcalá de Henares",
+  "Subvencion_estado": "Si",
+  "Concejalias": [
+    "Juventud",
+    "Deportes"
+  ]
+},
+{
+  "_id": 28,
+  "Codigo_expediente": 6175,
+  "Expediente": "Seguro de Daños materiales para el Excelentísimo Ayuntamiento de Alcalá de Henares.",
+  "Tipo_contrato": "Privado",
+  "Estado": "Evaluación",
+  "Importe": 65000,
+  "Fecha": "2019-10-23T00:00:00",
+  "Organo_contratacion": "Junta de Gobierno del Ayuntamiento de Alcalá de Henares",
+  "Subvencion_estado": "Si",
+  "Concejalias": [
+    "Juventud",
+    "Deportes"
+  ]
+},
+{
+  "_id": 26,
+  "Codigo_expediente": 6101,
+  "Expediente": "Instalación, mantenimiento y reposición de contenedores higiénico sanitarios para dependencias municipales.",
+  "Tipo_contrato": "ServiciosServicios de mantenimiento y reparación",
+  "Estado": "Resuelta",
+  "Importe": 6363.64,
+  "Fecha": "2019-03-14T00:00:00",
+  "Organo_contratacion": "Junta de Gobierno del Ayuntamiento de Alcalá de Henares",
+  "Subvencion_estado": "Si",
+  "Concejalias": [
+    "Juventud",
+    "Deportes"
+  ]
+},
+{
+  "_id": 23,
+  "Codigo_expediente": 6083,
+  "Expediente": "Suministro de un camión con plataforma elevadora de brazo articulado",
+  "Tipo_contrato": "SuministrosAdquisición",
+  "Estado": "Resuelta",
+  "Importe": 49586.78,
+  "Fecha": "2019-03-14T00:00:00",
+  "Organo_contratacion": "Junta de Gobierno del Ayuntamiento de Alcalá de Henares",
+  "Subvencion_estado": "Si",
+  "Concejalias": [
+    "Juventud",
+    "Deportes"
+  ]
+},
+{
+  "_id": 30,
+  "Codigo_expediente": 6166,
+  "Expediente": "Don Juan en Alcalá 2019",
+  "Tipo_contrato": "Privado",
+  "Estado": "Evaluación",
+  "Importe": 150000,
+  "Fecha": "2019-10-10T00:00:00",
+  "Organo_contratacion": "Junta de Gobierno del Ayuntamiento de Alcalá de Henares",
+  "Subvencion_estado": "No",
+  "Concejalias": [
+    "Economia",
+    "Urbanismo"
+  ]
+},
+{
+  "_id": 27,
+  "Codigo_expediente": 6116,
+  "Expediente": "Programa vacacional para personas mayores durante el año 2019",
+  "Tipo_contrato": "ServiciosServicios de esparcimiento, culturales y deportivos",
+  "Estado": "Resuelta",
+  "Importe": 35017.87,
+  "Fecha": "2019-04-04T00:00:00",
+  "Organo_contratacion": "Junta de Gobierno del Ayuntamiento de Alcalá de Henares",
+  "Subvencion_estado": "Si",
+  "Concejalias": [
+    "Juventud",
+    "Deportes"
+  ]
+},
+{
+  "_id": 25,
+  "Codigo_expediente": 6112,
+  "Expediente": "Servicio denominado 'Abierto para jugar' de la Concejalía de Educación.",
+  "Tipo_contrato": "ServiciosOtros servicios",
+  "Estado": "Resuelta",
+  "Importe": 25000,
+  "Fecha": "2019-10-04T00:00:00",
+  "Organo_contratacion": "Junta de Gobierno del Ayuntamiento de Alcalá de Henares",
+  "Subvencion_estado": "Si",
+  "Concejalias": [
+    "Juventud",
+    "Deportes"
+  ]
+},
+{
+  "_id": 31,
+  "Codigo_expediente": 6152,
+  "Expediente": "Servicio de redacción del proyecto y plan de seguridad y salud de las actuaciones de renaturalización, integración, habilitación y puesta en valor del entorno natural del Río Henares a través del Programa Operativo Plurirregional de España 2014-2020.",
+  "Tipo_contrato": "ServiciosServicios de arquitectura, servicios de ingeniería y servicios integrados de ingeniería, servicios de planificación urbana y servicios de arquitectura paisajista. Servicios conexos de consultores en ciencia y tecnología. Servicios de ensayos y anílisis técnicos",
+  "Estado": "Evaluación",
+  "Importe": 45000,
+  "Fecha": "2019-10-17T00:00:00",
+  "Organo_contratacion": "Junta de Gobierno del Ayuntamiento de Alcalá de Henares",
+  "Subvencion_estado": "Si",
+  "Concejalias": [
+    "Juventud",
+    "Deportes"
+  ]
+},
+{
+  "_id": 33,
+  "Codigo_expediente": 6164,
+  "Expediente": "Concesión demanial de locales para la explotación de las Cafeterías-Bar de los centros de personas mayores.",
+  "Tipo_contrato": "PatrimonialConcesión demanial",
+  "Estado": "Evaluación",
+  "Importe": 3465.36,
+  "Fecha": "2019-10-17T00:00:00",
+  "Organo_contratacion": "Junta de Gobierno del Ayuntamiento de Alcalá de Henares",
+  "Subvencion_estado": "Si",
+  "Concejalias": [
+    "Juventud",
+    "Deportes"
+  ]
+},
+{
+  "_id": 34,
+  "Codigo_expediente": 6143,
+  "Expediente": "Implantación electrónica en el Excmo. Ayuntamiento de Alcalá de Henares cofinanciado en un 50% por el FEDER en el marco del programa operativo de crecimiento sostenible 2014-2020.",
+  "Tipo_contrato": "ServiciosServicios de informática y servicios conexos",
+  "Estado": "Evaluación",
+  "Importe": 574380.17,
+  "Fecha": "2019-09-23T00:00:00",
+  "Organo_contratacion": "Junta de Gobierno del Ayuntamiento de Alcalá de Henares",
+  "Subvencion_estado": "Solicitud en proceso",
+  "Concejalias": [
+    "Tiempo libre",
+    "Ecologismo"
+  ]
+},
+{
+  "_id": 32,
+  "Codigo_expediente": 6165,
+  "Expediente": "Concesión demanial de locales para la explotación de las peluquerías de los centros de personas mayores.",
+  "Tipo_contrato": "PatrimonialConcesión demanial",
+  "Estado": "Evaluación",
+  "Importe": 1614.16,
+  "Fecha": "2019-10-17T00:00:00",
+  "Organo_contratacion": "Junta de Gobierno del Ayuntamiento de Alcalá de Henares",
+  "Subvencion_estado": "Si",
+  "Concejalias": [
+    "Juventud",
+    "Deportes"
+  ]
+},
+{
+  "_id": 37,
+  "Codigo_expediente": "64Vi",
+  "Expediente": "gilantes de seguridad y control de accesos.",
+  "Tipo_contrato": "ServiciosServicios de investigación y seguridad, excepto los servicios de furgones blindados",
+  "Estado": "Resuelta",
+  "Importe": 178512.4,
+  "Fecha": "2019-04-29T00:00:00",
+  "Organo_contratacion": "Consejo de Administración del Organismo Autónomo Ciudad Deportiva Municipal de Alcalá de Henares",
+  "Subvencion_estado": "No",
+  "Concejalias": [
+    "Economia",
+    "Urbanismo"
+  ]
+},
+{
+  "_id": 35,
+  "Codigo_expediente": 6137,
+  "Expediente": "Servicio de Dinamización integral y promoción del ocio y el tiempo libre infantil y adolescente de la Concejalía de Infancia.",
+  "Tipo_contrato": "ServiciosServicios de esparcimiento, culturales y deportivos",
+  "Estado": "Evaluación",
+  "Importe": 132012.17,
+  "Fecha": "2019-01-10T00:00:00",
+  "Organo_contratacion": "Junta de Gobierno del Ayuntamiento de Alcalá de Henares",
+  "Subvencion_estado": "No",
+  "Concejalias": [
+    "Economia",
+    "Urbanismo"
+  ]
+},
+{
+  "_id": 36,
+  "Codigo_expediente": "63Ex",
+  "Expediente": "plotación de cafetería restaurante del polideportivo El Juncal y quiosco bar de la piscina municipal de verano parque O´Donell",
+  "Tipo_contrato": "Administrativo especial",
+  "Estado": "Resuelta",
+  "Importe": 0,
+  "Fecha": "2019-04-29T00:00:00",
+  "Organo_contratacion": "Consejo de Administración del Organismo Autónomo Ciudad Deportiva Municipal de Alcalá de Henares",
+  "Subvencion_estado": "Si",
+  "Concejalias": [
+    "Juventud",
+    "Deportes"
+  ]
+},
+{
+  "_id": 38,
+  "Codigo_expediente": 6118,
+  "Expediente": "Cesión de uso temporal del Aula-Sótano del Centro Sociocultural Gilitos para la prestación del servicio de realización de cursos de cerámica de la Concejalía de Cultura.",
+  "Tipo_contrato": "Administrativo especial",
+  "Estado": "Evaluación",
+  "Importe": 7.21,
+  "Fecha": "2019-10-09T00:00:00",
+  "Organo_contratacion": "Junta de Gobierno del Ayuntamiento de Alcalá de Henares",
+  "Subvencion_estado": "Si",
+  "Concejalias": [
+    "Juventud",
+    "Deportes"
+  ]
+},
+{
+  "_id": 39,
+  "Codigo_expediente": 6134,
+  "Expediente": "Diseño, construcción e instalación de Stand del Ayuntamiento de Alcalá de Henares en la Feria Internacional de Turismo FITUR años 2.020 y 2.021",
+  "Tipo_contrato": "ServiciosOtros servicios",
+  "Estado": "Evaluación",
+  "Importe": 27031.44,
+  "Fecha": "2019-10-09T00:00:00",
+  "Organo_contratacion": "Junta de Gobierno del Ayuntamiento de Alcalá de Henares",
+  "Subvencion_estado": "Si",
+  "Concejalias": [
+    "Juventud",
+    "Deportes"
+  ]
+},
+{
+  "_id": 41,
+  "Codigo_expediente": 6119,
+  "Expediente": "Adquisición de trofeos, medallas y placas conmemorativas.",
+  "Tipo_contrato": "SuministrosAdquisición",
+  "Estado": "Evaluación",
+  "Importe": 9917.35,
+  "Fecha": "2019-12-08T00:00:00",
+  "Organo_contratacion": "Junta de Gobierno del Ayuntamiento de Alcalá de Henares",
+  "Subvencion_estado": "Si",
+  "Concejalias": [
+    "Juventud",
+    "Deportes"
+  ]
+},
+{
+  "_id": 40,
+  "Codigo_expediente": 6125,
+  "Expediente": "Servicio 'Bolsa de Voluntariado' de la Concejalía de Participación, Ciudadanía y Distritos.",
+  "Tipo_contrato": "ServiciosServicios de esparcimiento, culturales y deportivos",
+  "Estado": "Evaluación",
+  "Importe": 49440,
+  "Fecha": "2019-08-23T00:00:00",
+  "Organo_contratacion": "Junta de Gobierno del Ayuntamiento de Alcalá de Henares",
+  "Subvencion_estado": "Si",
+  "Concejalias": [
+    "Juventud",
+    "Deportes"
+  ]
+},
+{
+  "_id": 42,
+  "Codigo_expediente": 6131,
+  "Expediente": "Mantenimiento de los vehículos destinados a la Policía Local de Alcalá de Henares.",
+  "Tipo_contrato": "ServiciosServicios de mantenimiento y reparación",
+  "Estado": "Evaluación",
+  "Importe": 66115.7,
+  "Fecha": "2019-09-08T00:00:00",
+  "Organo_contratacion": "Junta de Gobierno del Ayuntamiento de Alcalá de Henares",
+  "Subvencion_estado": "Si",
+  "Concejalias": [
+    "Juventud",
+    "Deportes"
+  ]
+},
+{
+  "_id": 43,
+  "Codigo_expediente": 6120,
+  "Expediente": "adquisición de seis vehículos policiales para el cuerpo de Policía Local de Alcalá de Henares.",
+  "Tipo_contrato": "SuministrosAdquisición",
+  "Estado": "Evaluación",
+  "Importe": 129669.42,
+  "Fecha": "2019-09-08T00:00:00",
+  "Organo_contratacion": "Junta de Gobierno del Ayuntamiento de Alcalá de Henares",
+  "Subvencion_estado": "No",
+  "Concejalias": [
+    "Economia",
+    "Urbanismo"
+  ]
+},
+{
+  "_id": 44,
+  "Codigo_expediente": 6129,
+  "Expediente": "Contrataciones artísticas dentro de la programación de la XXXV semana del mayor, año 2019, en la ciudad de Alcalá de Henares.",
+  "Tipo_contrato": "ServiciosServicios de esparcimiento, culturales y deportivos",
+  "Estado": "Evaluación",
+  "Importe": 22491.37,
+  "Fecha": "2019-07-23T00:00:00",
+  "Organo_contratacion": "Junta de Gobierno del Ayuntamiento de Alcalá de Henares",
+  "Subvencion_estado": "Si",
+  "Concejalias": [
+    "Juventud",
+    "Deportes"
+  ]
+},
+{
+  "_id": 45,
+  "Codigo_expediente": 6126,
+  "Expediente": "Acuerdo marco para la selección de contratistas para desarrollar el servicio de Publicidad ordinaria en medios impresos, radiofónicos y digitales en el marco de la publicidad y promoción institucional del Ayuntamiento de Alcalá de Henares y de sus Organismos y Empresas Públicas en el entorno de la difusión local, comarcal y regional.",
+  "Tipo_contrato": "ServiciosServicios de publicidad",
+  "Estado": "Evaluación",
+  "Importe": 198347.11,
+  "Fecha": "2019-07-18T00:00:00",
+  "Organo_contratacion": "Junta de Gobierno del Ayuntamiento de Alcalá de Henares",
+  "Subvencion_estado": "No",
+  "Concejalias": [
+    "Economia",
+    "Urbanismo"
+  ]
+},
+{
+  "_id": 46,
+  "Codigo_expediente": 6142,
+  "Expediente": "Producción de la 49 y 50 edición del Festival de Cine de Alcalá de Henares/Comunidad de Madrid (ALCINE49 y ALCINE50)",
+  "Tipo_contrato": "ServiciosServicios de esparcimiento, culturales y deportivos",
+  "Estado": "Evaluación",
+  "Importe": 120661.16,
+  "Fecha": "2019-07-17T00:00:00",
+  "Organo_contratacion": "Junta de Gobierno del Ayuntamiento de Alcalá de Henares",
+  "Subvencion_estado": "No",
+  "Concejalias": [
+    "Economia",
+    "Urbanismo"
+  ]
+},
+{
+  "_id": 47,
+  "Codigo_expediente": 6155,
+  "Expediente": "Ejercicio y/o defensa y representación judicial mediante letrado de los intereses del Excmo. Ayuntamiento de Alcalá de Henares (Orden Contencioso-Administrativo)",
+  "Tipo_contrato": "ServiciosServicios jurídicos",
+  "Estado": "Evaluación",
+  "Importe": 100000,
+  "Fecha": "2019-07-17T00:00:00",
+  "Organo_contratacion": "Junta de Gobierno del Ayuntamiento de Alcalá de Henares",
+  "Subvencion_estado": "Solicitud en proceso",
+  "Concejalias": [
+    "Tiempo libre",
+    "Ecologismo"
+  ]
+},
+{
+  "_id": 51,
+  "Codigo_expediente": 6025,
+  "Expediente": "Servicio educativo público de la Escuela Infantil Los Molinos",
+  "Tipo_contrato": "ServiciosServicios de educación y formación profesional",
+  "Estado": "Resuelta",
+  "Importe": 207376.7,
+  "Fecha": "2018-07-18T00:00:00",
+  "Organo_contratacion": "Junta de Gobierno del Ayuntamiento de Alcalá de Henares",
+  "Subvencion_estado": "No",
+  "Concejalias": [
+    "Economia",
+    "Urbanismo"
+  ]
+},
+{
+  "_id": 50,
+  "Codigo_expediente": 6023,
+  "Expediente": "Servicio educativo público de la escuela infantil Galatea",
+  "Tipo_contrato": "ServiciosServicios de educación y formación profesional",
+  "Estado": "Resuelta",
+  "Importe": 182657.86,
+  "Fecha": "2018-07-16T00:00:00",
+  "Organo_contratacion": "Junta de Gobierno del Ayuntamiento de Alcalá de Henares",
+  "Subvencion_estado": "No",
+  "Concejalias": [
+    "Economia",
+    "Urbanismo"
+  ]
+},
+{
+  "_id": 48,
+  "Codigo_expediente": 6021,
+  "Expediente": "Servicio educativo público de la escuela infantil Arco Iris",
+  "Tipo_contrato": "ServiciosServicios de educación y formación profesional",
+  "Estado": "Resuelta",
+  "Importe": 177385.12,
+  "Fecha": "2018-12-07T00:00:00",
+  "Organo_contratacion": "Junta de Gobierno del Ayuntamiento de Alcalá de Henares",
+  "Subvencion_estado": "No",
+  "Concejalias": [
+    "Economia",
+    "Urbanismo"
+  ]
+},
+{
+  "_id": 49,
+  "Codigo_expediente": 6022,
+  "Expediente": "Servicio Educativo Público de la Escuela Infantil Carrusel",
+  "Tipo_contrato": "ServiciosServicios de educación y formación profesional",
+  "Estado": "Resuelta",
+  "Importe": 213149.78,
+  "Fecha": "2018-07-16T00:00:00",
+  "Organo_contratacion": "Junta de Gobierno del Ayuntamiento de Alcalá de Henares",
+  "Subvencion_estado": "No",
+  "Concejalias": [
+    "Economia",
+    "Urbanismo"
+  ]
+},
+{
+  "_id": 52,
+  "Codigo_expediente": 6024,
+  "Expediente": "Servicio educativo público de la escuela infantil La Flauta Mágica",
+  "Tipo_contrato": "ServiciosServicios de educación y formación profesional",
+  "Estado": "Resuelta",
+  "Importe": 196718.36,
+  "Fecha": "2018-07-17T00:00:00",
+  "Organo_contratacion": "Junta de Gobierno del Ayuntamiento de Alcalá de Henares",
+  "Subvencion_estado": "No",
+  "Concejalias": [
+    "Economia",
+    "Urbanismo"
+  ]
+},
+{
+  "_id": 54,
+  "Codigo_expediente": 6050,
+  "Expediente": "Reurbanización del Ámbito del Camino de la Esgaravita en el lado de los pares del 20 al 38.",
+  "Tipo_contrato": "ObrasConstrucción",
+  "Estado": "Resuelta",
+  "Importe": 155024.3,
+  "Fecha": "2018-08-28T00:00:00",
+  "Organo_contratacion": "Junta de Gobierno del Ayuntamiento de Alcalá de Henares",
+  "Subvencion_estado": "No",
+  "Concejalias": [
+    "Economia",
+    "Urbanismo"
+  ]
+},
+{
+  "_id": 55,
+  "Codigo_expediente": 6109,
+  "Expediente": "Evacuación de los caudales del polideportivo el Juncal del municipio de Alcalá de Henares.",
+  "Tipo_contrato": "ObrasConstrucción",
+  "Estado": "Resuelta",
+  "Importe": 74092.15,
+  "Fecha": "2019-04-03T00:00:00",
+  "Organo_contratacion": "Junta de Gobierno del Ayuntamiento de Alcalá de Henares",
+  "Subvencion_estado": "Si",
+  "Concejalias": [
+    "Juventud",
+    "Deportes"
+  ]
+},
+{
+  "_id": 53,
+  "Codigo_expediente": 6094,
+  "Expediente": "Redacción de proyecto y Dirección de obra de 'Construcción de campo de sófbol en parcela 4.1 del sector 46 de Alcalá de Henares' \nEsta actuación está incluida en el Plan de Inversión Regional (P.I.R.) de la CAM 2016-2019",
+  "Tipo_contrato": "ServiciosServicios de arquitectura, servicios de ingeniería y servicios integrados de ingeniería, servicios de planificación urbana y servicios de arquitectura paisajista. Servicios conexos de consultores en ciencia y tecnología. Servicios de ensayos y anílisis técnicos",
+  "Estado": "Resuelta",
+  "Importe": 19834.71,
+  "Fecha": "2019-01-24T00:00:00",
+  "Organo_contratacion": "Junta de Gobierno del Ayuntamiento de Alcalá de Henares",
+  "Subvencion_estado": "Si",
+  "Concejalias": [
+    "Juventud",
+    "Deportes"
+  ]
+},
+{
+  "_id": 56,
+  "Codigo_expediente": 6104,
+  "Expediente": "-BISServicio de seguridad contra robo e intrusión en edificios municipales.",
+  "Tipo_contrato": "ServiciosOtros servicios",
+  "Estado": "Evaluación",
+  "Importe": 50000,
+  "Fecha": "2019-06-21T00:00:00",
+  "Organo_contratacion": "Junta de Gobierno del Ayuntamiento de Alcalá de Henares",
+  "Subvencion_estado": "Si",
+  "Concejalias": [
+    "Juventud",
+    "Deportes"
+  ]
+},
+{
+  "_id": 58,
+  "Codigo_expediente": 6104,
+  "Expediente": "Seguridad contra robo e intrusión en edificios municipales.",
+  "Tipo_contrato": "ServiciosOtros servicios",
+  "Estado": "Resuelta",
+  "Importe": 50000,
+  "Fecha": "2019-09-05T00:00:00",
+  "Organo_contratacion": "Junta de Gobierno del Ayuntamiento de Alcalá de Henares",
+  "Subvencion_estado": "Si",
+  "Concejalias": [
+    "Juventud",
+    "Deportes"
+  ]
+},
+{
+  "_id": 57,
+  "Codigo_expediente": 6086,
+  "Expediente": "Redacción de proyecto y ejecución de la obra correspondiente de Construcción de nuevo Área Polideportiva en la parcela EQ-1 de la UE 2A de Álcala de Henares.",
+  "Tipo_contrato": "ObrasConstrucción",
+  "Estado": "Resuelta",
+  "Importe": 371900.83,
+  "Fecha": "2019-11-02T00:00:00",
+  "Organo_contratacion": "Junta de Gobierno del Ayuntamiento de Alcalá de Henares",
+  "Subvencion_estado": "No",
+  "Concejalias": [
+    "Economia",
+    "Urbanismo"
+  ]
+},
+{
+  "_id": 60,
+  "Codigo_expediente": 6069,
+  "Expediente": "Obras y servicios necesarios para la realización de la inversión de renovación de aceras y asfaltos en el municipio de Alcalá de Henares.",
+  "Tipo_contrato": "ObrasConstrucción",
+  "Estado": "Adjudicada",
+  "Importe": 6157024.79,
+  "Fecha": "2018-02-11T00:00:00",
+  "Organo_contratacion": "Junta de Gobierno del Ayuntamiento de Alcalá de Henares",
+  "Subvencion_estado": "No",
+  "Concejalias": [
+    "Economia",
+    "Urbanismo"
+  ]
+},
+{
+  "_id": 59,
+  "Codigo_expediente": 6004,
+  "Expediente": "Urbanización de reforma del viario de la calle Libreros y Plaza de Cervantes",
+  "Tipo_contrato": "ObrasConstrucción",
+  "Estado": "Resuelta",
+  "Importe": 1776202.11,
+  "Fecha": "2018-04-25T00:00:00",
+  "Organo_contratacion": "Junta de Gobierno del Ayuntamiento de Alcalá de Henares",
+  "Subvencion_estado": "Solicitud en proceso",
+  "Concejalias": [
+    "Tiempo libre",
+    "Ecologismo"
+  ]
+},
+{
+  "_id": 61,
+  "Codigo_expediente": 6127,
+  "Expediente": "Programa mantenimiento en el entorno: acompañamiento social del Excmo. Ayuntamiento de Alcalá de Henares.",
+  "Tipo_contrato": "ServiciosServicios sociales y de salud",
+  "Estado": "Evaluación",
+  "Importe": 205805.35,
+  "Fecha": "2019-04-07T00:00:00",
+  "Organo_contratacion": "Junta de Gobierno del Ayuntamiento de Alcalá de Henares",
+  "Subvencion_estado": "No",
+  "Concejalias": [
+    "Economia",
+    "Urbanismo"
+  ]
+},
+{
+  "_id": 63,
+  "Codigo_expediente": 6133,
+  "Expediente": "Servicio integral avanzado de las tecnologías de la información y de las comunicaciones del Ayuntamiento de Alcalá de Henares.",
+  "Tipo_contrato": "ServiciosServicios de telecomunicación",
+  "Estado": "Evaluación",
+  "Importe": 1074380.17,
+  "Fecha": "2019-03-07T00:00:00",
+  "Organo_contratacion": "Junta de Gobierno del Ayuntamiento de Alcalá de Henares",
+  "Subvencion_estado": "No",
+  "Concejalias": [
+    "Economia",
+    "Urbanismo"
+  ]
+},
+{
+  "_id": 64,
+  "Codigo_expediente": 6130,
+  "Expediente": "Mantenimiento de 'desfibriladores externos fuera del ámbito sanitario' (DESA) para el Excmo. Ayuntamiento de Alcalá de Henares.",
+  "Tipo_contrato": "ServiciosOtros servicios",
+  "Estado": "Evaluación",
+  "Importe": 7000,
+  "Fecha": "2019-12-06T00:00:00",
+  "Organo_contratacion": "Junta de Gobierno del Ayuntamiento de Alcalá de Henares",
+  "Subvencion_estado": "Si",
+  "Concejalias": [
+    "Juventud",
+    "Deportes"
+  ]
+},
+{
+  "_id": 62,
+  "Codigo_expediente": 6128,
+  "Expediente": "Atención a la familia en Alcalá de Henares.",
+  "Tipo_contrato": "ServiciosServicios sociales y de salud",
+  "Estado": "Evaluación",
+  "Importe": 326200.74,
+  "Fecha": "2019-04-07T00:00:00",
+  "Organo_contratacion": "Junta de Gobierno del Ayuntamiento de Alcalá de Henares",
+  "Subvencion_estado": "No",
+  "Concejalias": [
+    "Economia",
+    "Urbanismo"
+  ]
+},
+{
+  "_id": 65,
+  "Codigo_expediente": 6124,
+  "Expediente": "Administración integral de los pisos tutelados para mujeres víctimas de violencia de género y sus hijos e hijas, dependientes de la Concejalía de Igualdad del Excmo. Ayuntamiento de Alcalá de Henares.",
+  "Tipo_contrato": "ServiciosOtros servicios",
+  "Estado": "Evaluación",
+  "Importe": 174204.55,
+  "Fecha": "2019-12-06T00:00:00",
+  "Organo_contratacion": "Junta de Gobierno del Ayuntamiento de Alcalá de Henares",
+  "Subvencion_estado": "No",
+  "Concejalias": [
+    "Economia",
+    "Urbanismo"
+  ]
+},
+{
+  "_id": 66,
+  "Codigo_expediente": 6121,
+  "Expediente": "Desarrollo evolutivo y mantenimiento de programas informáticos.",
+  "Tipo_contrato": "ServiciosOtros servicios",
+  "Estado": "Evaluación",
+  "Importe": 115040.66,
+  "Fecha": "2019-06-27T00:00:00",
+  "Organo_contratacion": "Junta de Gobierno del Ayuntamiento de Alcalá de Henares",
+  "Subvencion_estado": "No",
+  "Concejalias": [
+    "Economia",
+    "Urbanismo"
+  ]
+},
+{
+  "_id": 67,
+  "Codigo_expediente": 6016,
+  "Expediente": "Terminación y Urbanización del Centro Docente y Auditorio del Centro Sociocultural Gilitos",
+  "Tipo_contrato": "ObrasAcabado de edificios y obras",
+  "Estado": "Resuelta",
+  "Importe": 118689.01,
+  "Fecha": "2018-02-07T00:00:00",
+  "Organo_contratacion": "Junta de Gobierno del Ayuntamiento de Alcalá de Henares",
+  "Subvencion_estado": "No",
+  "Concejalias": [
+    "Economia",
+    "Urbanismo"
+  ]
+},
+{
+  "_id": 69,
+  "Codigo_expediente": 6122,
+  "Expediente": "Desratización, Desinsectación y Desinfección del Municipio de Alcalá de Henares.",
+  "Tipo_contrato": "ServiciosOtros servicios",
+  "Estado": "Evaluación",
+  "Importe": 33057.85,
+  "Fecha": "2019-04-06T00:00:00",
+  "Organo_contratacion": "Junta de Gobierno del Ayuntamiento de Alcalá de Henares",
+  "Subvencion_estado": "Si",
+  "Concejalias": [
+    "Juventud",
+    "Deportes"
+  ]
+},
+{
+  "_id": 68,
+  "Codigo_expediente": 6107,
+  "Expediente": "Gestión y mantenimiento de la comparsa de gigantes y acompañamiento musical.",
+  "Tipo_contrato": "ServiciosServicios de esparcimiento, culturales y deportivos",
+  "Estado": "Evaluación",
+  "Importe": 55000,
+  "Fecha": "2019-04-06T00:00:00",
+  "Organo_contratacion": "Junta de Gobierno del Ayuntamiento de Alcalá de Henares",
+  "Subvencion_estado": "Si",
+  "Concejalias": [
+    "Juventud",
+    "Deportes"
+  ]
+},
+{
+  "_id": 70,
+  "Codigo_expediente": "061E",
+  "Expediente": "xplotación de cafetería - bar en Complejo Deportivo Espartales",
+  "Tipo_contrato": "Administrativo especial",
+  "Estado": "Resuelta",
+  "Importe": 0,
+  "Fecha": "2019-02-25T00:00:00",
+  "Organo_contratacion": "Consejo de Administración del Organismo Autónomo Ciudad Deportiva Municipal de Alcalá de Henares",
+  "Subvencion_estado": "Si",
+  "Concejalias": [
+    "Juventud",
+    "Deportes"
+  ]
+},
+{
+  "_id": 72,
+  "Codigo_expediente": 6098,
+  "Expediente": "Servicio 'Tren de Cervantes: Actividades Escénicas Didácticas y de Difusión del Patrimonio Cultural en la Ciudad de Alcalá de Henares'",
+  "Tipo_contrato": "ServiciosOtros servicios",
+  "Estado": "Resuelta",
+  "Importe": 41322.31,
+  "Fecha": "2019-02-14T00:00:00",
+  "Organo_contratacion": "Junta de Gobierno del Ayuntamiento de Alcalá de Henares",
+  "Subvencion_estado": "Si",
+  "Concejalias": [
+    "Juventud",
+    "Deportes"
+  ]
+},
+{
+  "_id": 71,
+  "Codigo_expediente": 6106,
+  "Expediente": "Diseño y desarrollo de actividades de educación ambiental de la Concejalía de Medio Ambiente y Movilidad.",
+  "Tipo_contrato": "ServiciosOtros servicios",
+  "Estado": "Resuelta",
+  "Importe": 20661.16,
+  "Fecha": "2019-03-18T00:00:00",
+  "Organo_contratacion": "Junta de Gobierno del Ayuntamiento de Alcalá de Henares",
+  "Subvencion_estado": "Si",
+  "Concejalias": [
+    "Juventud",
+    "Deportes"
+  ]
+},
+{
+  "_id": 73,
+  "Codigo_expediente": 6066,
+  "Expediente": "Reforma del Pabellón El Val - Demetrio Lozano en Avda. Virgen del Val, nº 67 de Alcalá de Henares",
+  "Tipo_contrato": "ObrasConstrucción",
+  "Estado": "Resuelta",
+  "Importe": 458575.16,
+  "Fecha": "2018-10-15T00:00:00",
+  "Organo_contratacion": "Junta de Gobierno del Ayuntamiento de Alcalá de Henares",
+  "Subvencion_estado": "No",
+  "Concejalias": [
+    "Economia",
+    "Urbanismo"
+  ]
+},
+{
+  "_id": 75,
+  "Codigo_expediente": 6061,
+  "Expediente": "Mejora del Parque del Chorrillo y Paseo de los Pinos",
+  "Tipo_contrato": "ObrasConstrucción",
+  "Estado": "Resuelta",
+  "Importe": 371880.82,
+  "Fecha": "2019-02-27T00:00:00",
+  "Organo_contratacion": "Junta de Gobierno del Ayuntamiento de Alcalá de Henares",
+  "Subvencion_estado": "No",
+  "Concejalias": [
+    "Economia",
+    "Urbanismo"
+  ]
+},
+{
+  "_id": 74,
+  "Codigo_expediente": 6065,
+  "Expediente": "Pistas deportivas en calle Ruperto Chapí, 29 de Alcalá de Henares, cofinanciado al 80% mediante el programa de inversión regional de la Comunidad de Madrid para el periodo 2016-2019.",
+  "Tipo_contrato": "ObrasConstrucción",
+  "Estado": "Resuelta",
+  "Importe": 235546.25,
+  "Fecha": "2018-10-10T00:00:00",
+  "Organo_contratacion": "Junta de Gobierno del Ayuntamiento de Alcalá de Henares",
+  "Subvencion_estado": "No",
+  "Concejalias": [
+    "Economia",
+    "Urbanismo"
+  ]
+},
+{
+  "_id": 76,
+  "Codigo_expediente": 6099,
+  "Expediente": "Organización y realización del III festival de magia a realizar en el municipio de Alcalá de Henares en 2019.",
+  "Tipo_contrato": "ServiciosServicios de esparcimiento, culturales y deportivos",
+  "Estado": "Resuelta",
+  "Importe": 35000,
+  "Fecha": "2019-03-26T00:00:00",
+  "Organo_contratacion": "Junta de Gobierno del Ayuntamiento de Alcalá de Henares",
+  "Subvencion_estado": "Si",
+  "Concejalias": [
+    "Juventud",
+    "Deportes"
+  ]
+},
+{
+  "_id": 78,
+  "Codigo_expediente": 6114,
+  "Expediente": "Rehabilitación del parque Gilitos.",
+  "Tipo_contrato": "ObrasConstrucción",
+  "Estado": "Resuelta",
+  "Importe": 247831.43,
+  "Fecha": "2019-11-03T00:00:00",
+  "Organo_contratacion": "Junta de Gobierno del Ayuntamiento de Alcalá de Henares",
+  "Subvencion_estado": "No",
+  "Concejalias": [
+    "Economia",
+    "Urbanismo"
+  ]
+},
+{
+  "_id": 77,
+  "Codigo_expediente": 2019,
+  "Expediente": "00000000Servicio de Limpieza de oficinas y otras dependencias comunes del Centro Penitenciario Madrid II",
+  "Tipo_contrato": "ServiciosServicios de limpieza de edificios y servicios de administración de bienes raíces",
+  "Estado": "Evaluación",
+  "Importe": 74380.17,
+  "Fecha": "2019-05-23T00:00:00",
+  "Organo_contratacion": "Dirección del Centro Penitenciario Madrid II",
+  "Subvencion_estado": "Si",
+  "Concejalias": [
+    "Juventud",
+    "Deportes"
+  ]
+},
+{
+  "_id": 80,
+  "Codigo_expediente": 6026,
+  "Expediente": "Ejecución de reforma del Parque de Juan de Austria Sector 7A",
+  "Tipo_contrato": "ObrasConstrucción",
+  "Estado": "Resuelta",
+  "Importe": 1445856.19,
+  "Fecha": "2018-06-25T00:00:00",
+  "Organo_contratacion": "Junta de Gobierno del Ayuntamiento de Alcalá de Henares",
+  "Subvencion_estado": "No",
+  "Concejalias": [
+    "Economia",
+    "Urbanismo"
+  ]
+},
+{
+  "_id": 79,
+  "Codigo_expediente": 6113,
+  "Expediente": "Rehabilitación del parque de Roma y adecuación de zona deportiva",
+  "Tipo_contrato": "ObrasConstrucción",
+  "Estado": "Resuelta",
+  "Importe": 330417.77,
+  "Fecha": "2019-11-03T00:00:00",
+  "Organo_contratacion": "Junta de Gobierno del Ayuntamiento de Alcalá de Henares",
+  "Subvencion_estado": "No",
+  "Concejalias": [
+    "Economia",
+    "Urbanismo"
+  ]
+},
+{
+  "_id": 83,
+  "Codigo_expediente": "060S",
+  "Expediente": "uministro de maquinaria en alquiler",
+  "Tipo_contrato": "SuministrosAlquiler",
+  "Estado": "Resuelta",
+  "Importe": 14776.86,
+  "Fecha": "2019-02-25T00:00:00",
+  "Organo_contratacion": "Consejo de Administración del Organismo Autónomo Ciudad Deportiva Municipal de Alcalá de Henares",
+  "Subvencion_estado": "Si",
+  "Concejalias": [
+    "Juventud",
+    "Deportes"
+  ]
+},
+{
+  "_id": 81,
+  "Codigo_expediente": 6079,
+  "Expediente": "LOTE 2Suministro e instalación de dos cuartos fríos para la mejora del servicio de recogida de RSU.",
+  "Tipo_contrato": "SuministrosAdquisición",
+  "Estado": "Evaluación",
+  "Importe": 40000,
+  "Fecha": "2019-05-22T00:00:00",
+  "Organo_contratacion": "Junta de Gobierno del Ayuntamiento de Alcalá de Henares",
+  "Subvencion_estado": "Si",
+  "Concejalias": [
+    "Juventud",
+    "Deportes"
+  ]
+},
+{
+  "_id": 82,
+  "Codigo_expediente": "058M",
+  "Expediente": "antenimiento e inspección de sistemas de protección contra incendios.",
+  "Tipo_contrato": "ServiciosServicios de mantenimiento y reparación",
+  "Estado": "Resuelta",
+  "Importe": 4545.45,
+  "Fecha": "2019-02-25T00:00:00",
+  "Organo_contratacion": "Consejo de Administración del Organismo Autónomo Ciudad Deportiva Municipal de Alcalá de Henares",
+  "Subvencion_estado": "Si",
+  "Concejalias": [
+    "Juventud",
+    "Deportes"
+  ]
+},
+{
+  "_id": 84,
+  "Codigo_expediente": "59Ex",
+  "Expediente": "plotación de bar cafetería Polideportivo Val",
+  "Tipo_contrato": "Administrativo especial",
+  "Estado": "Resuelta",
+  "Importe": 0,
+  "Fecha": "2019-02-26T00:00:00",
+  "Organo_contratacion": "Consejo de Administración del Organismo Autónomo Ciudad Deportiva Municipal de Alcalá de Henares",
+  "Subvencion_estado": "Si",
+  "Concejalias": [
+    "Juventud",
+    "Deportes"
+  ]
+},
+{
+  "_id": 85,
+  "Codigo_expediente": 6073,
+  "Expediente": "Suministro de materiales para el Servicio Municipal de Limpieza",
+  "Tipo_contrato": "SuministrosAdquisición",
+  "Estado": "Resuelta",
+  "Importe": 61983.47,
+  "Fecha": "2019-01-18T00:00:00",
+  "Organo_contratacion": "Junta de Gobierno del Ayuntamiento de Alcalá de Henares",
+  "Subvencion_estado": "Si",
+  "Concejalias": [
+    "Juventud",
+    "Deportes"
+  ]
+},
+{
+  "_id": 87,
+  "Codigo_expediente": 6054,
+  "Expediente": "Renovación de la fuentes de boca situadas en las zonas verdes del municipio de Alcalá de Henares.",
+  "Tipo_contrato": "ObrasConstrucción",
+  "Estado": "Evaluación",
+  "Importe": 277362.32,
+  "Fecha": "2019-05-13T00:00:00",
+  "Organo_contratacion": "Junta de Gobierno del Ayuntamiento de Alcalá de Henares",
+  "Subvencion_estado": "No",
+  "Concejalias": [
+    "Economia",
+    "Urbanismo"
+  ]
+},
+{
+  "_id": 88,
+  "Codigo_expediente": 6049,
+  "Expediente": "Redacción y firma de proyectos, planes de seguridad y salud y ejecución de las obras de mejora de eficiencia energética de diversos edificios municipales mediante el programa operativo FEDER de crecimiento sostenible 2014-2020.",
+  "Tipo_contrato": "ObrasInstalación eléctrica",
+  "Estado": "Resuelta",
+  "Importe": 158068.37,
+  "Fecha": "2019-02-18T00:00:00",
+  "Organo_contratacion": "Junta de Gobierno del Ayuntamiento de Alcalá de Henares",
+  "Subvencion_estado": "No",
+  "Concejalias": [
+    "Economia",
+    "Urbanismo"
+  ]
+},
+{
+  "_id": 86,
+  "Codigo_expediente": 6108,
+  "Expediente": "Mantenimiento arqueológico y restauración preventiva del conjunto monumental de la ciudad romana de Complutum, y otros espacios arqueológicos de Alcalá de Henares.",
+  "Tipo_contrato": "ServiciosServicios de mantenimiento y reparación",
+  "Estado": "Evaluación",
+  "Importe": 90909,
+  "Fecha": "2019-03-05T00:00:00",
+  "Organo_contratacion": "Junta de Gobierno del Ayuntamiento de Alcalá de Henares",
+  "Subvencion_estado": "Si",
+  "Concejalias": [
+    "Juventud",
+    "Deportes"
+  ]
+},
+{
+  "_id": 89,
+  "Codigo_expediente": 6103,
+  "Expediente": "Construcción de nueva cubierta y reforma de pistas polideportivas en el CEIP Juan de Austria de Alcalá de Henares” sito en Avda Juan de Austria nº 17 de Alcalá de Henares.",
+  "Tipo_contrato": "ObrasConstrucción",
+  "Estado": "Resuelta",
+  "Importe": 351872.46,
+  "Fecha": "2019-01-22T00:00:00",
+  "Organo_contratacion": "Junta de Gobierno del Ayuntamiento de Alcalá de Henares",
+  "Subvencion_estado": "No",
+  "Concejalias": [
+    "Economia",
+    "Urbanismo"
+  ]
+},
+{
+  "_id": 92,
+  "Codigo_expediente": 6110,
+  "Expediente": "Mantenimiento, registro, control e inspección de los ascensores y plataformas elevadoras sitas en edificios municipales.",
+  "Tipo_contrato": "ServiciosServicios de mantenimiento y reparación",
+  "Estado": "Evaluación",
+  "Importe": 49586.77,
+  "Fecha": "2019-04-22T00:00:00",
+  "Organo_contratacion": "Junta de Gobierno del Ayuntamiento de Alcalá de Henares",
+  "Subvencion_estado": "Si",
+  "Concejalias": [
+    "Juventud",
+    "Deportes"
+  ]
+},
+{
+  "_id": 90,
+  "Codigo_expediente": 6011,
+  "Expediente": "Remodelación del Parque de Salvador de Madariaga",
+  "Tipo_contrato": "ObrasOtras construcciones especializadas",
+  "Estado": "Resuelta",
+  "Importe": 239609.65,
+  "Fecha": "2018-06-18T00:00:00",
+  "Organo_contratacion": "Junta de Gobierno del Ayuntamiento de Alcalá de Henares",
+  "Subvencion_estado": "Solicitud en proceso",
+  "Concejalias": [
+    "Tiempo libre",
+    "Ecologismo"
+  ]
+},
+{
+  "_id": 93,
+  "Codigo_expediente": 6115,
+  "Expediente": "Organización y desarrollo de los campamentos de verano 2019 de la Concejalía de Infancia.",
+  "Tipo_contrato": "ServiciosServicios de esparcimiento, culturales y deportivos",
+  "Estado": "Evaluación",
+  "Importe": 11054.56,
+  "Fecha": "2019-12-04T00:00:00",
+  "Organo_contratacion": "Junta de Gobierno del Ayuntamiento de Alcalá de Henares",
+  "Subvencion_estado": "Si",
+  "Concejalias": [
+    "Juventud",
+    "Deportes"
+  ]
+},
+{
+  "_id": 91,
+  "Codigo_expediente": 6123,
+  "Expediente": "Rehabilitación parcial de cubiertas de la Casa Consistorial, sita en Plaza de Cervantes, 12",
+  "Tipo_contrato": "ObrasConstrucción de cubiertas y estructuras de cerramiento",
+  "Estado": "Evaluación",
+  "Importe": 148302,
+  "Fecha": "2019-04-30T00:00:00",
+  "Organo_contratacion": "Junta de Gobierno del Ayuntamiento de Alcalá de Henares",
+  "Subvencion_estado": "No",
+  "Concejalias": [
+    "Economia",
+    "Urbanismo"
+  ]
+},
+{
+  "_id": 94,
+  "Codigo_expediente": 6105,
+  "Expediente": "Suministro bibliográfico y multimedia a los centros dependientes del Servicio de Bibliotecas de la Concejalía de Cultura.",
+  "Tipo_contrato": "SuministrosAdquisición",
+  "Estado": "Evaluación",
+  "Importe": 20883.66,
+  "Fecha": "2019-12-04T00:00:00",
+  "Organo_contratacion": "Junta de Gobierno del Ayuntamiento de Alcalá de Henares",
+  "Subvencion_estado": "Si",
+  "Concejalias": [
+    "Juventud",
+    "Deportes"
+  ]
+},
+{
+  "_id": 95,
+  "Codigo_expediente": "05/2",
+  "Expediente": "018Servicio de Limpieza del edificio 'Espacio de Iniciativas Empresariales' sito en C/ Blas Cabrera nº 23, 28806 Alcalá de Henares",
+  "Tipo_contrato": "ServiciosServicios de limpieza de edificios y servicios de administración de bienes raíces",
+  "Estado": "Evaluación",
+  "Importe": 12835.08,
+  "Fecha": "2019-11-04T00:00:00",
+  "Organo_contratacion": "Consejo de Administración del Ente Público Empresarial Alcalá Desarrollo",
+  "Subvencion_estado": "Si",
+  "Concejalias": [
+    "Juventud",
+    "Deportes"
+  ]
+},
+{
+  "_id": 97,
+  "Codigo_expediente": 6052,
+  "Expediente": "Suministro de una ambulancia destinada al Servicio de Protección Civil de Alcalá de Henares",
+  "Tipo_contrato": "SuministrosAdquisición",
+  "Estado": "Resuelta",
+  "Importe": 45454.54,
+  "Fecha": "2018-12-12T00:00:00",
+  "Organo_contratacion": "Junta de Gobierno del Ayuntamiento de Alcalá de Henares",
+  "Subvencion_estado": "Si",
+  "Concejalias": [
+    "Juventud",
+    "Deportes"
+  ]
+},
+{
+  "_id": 96,
+  "Codigo_expediente": 6090,
+  "Expediente": "Redacción del proyecto, Dirección de obra y Coordinación de Seguridad y Salud de 'Mejora acceso peatonal y bicicleta a la Ribera del Río Henares y al Parque de los Cerros'.\nEsta actuación está incluida en el Plan de Inversión Regional (P.I.R.) de la CAM 2016-2019.",
+  "Tipo_contrato": "ServiciosServicios de arquitectura, servicios de ingeniería y servicios integrados de ingeniería, servicios de planificación urbana y servicios de arquitectura paisajista. Servicios conexos de consultores en ciencia y tecnología. Servicios de ensayos y anílisis técnicos",
+  "Estado": "Resuelta",
+  "Importe": 52066.11,
+  "Fecha": "2019-01-25T00:00:00",
+  "Organo_contratacion": "Junta de Gobierno del Ayuntamiento de Alcalá de Henares",
+  "Subvencion_estado": "Si",
+  "Concejalias": [
+    "Juventud",
+    "Deportes"
+  ]
+},
+{
+  "_id": 98,
+  "Codigo_expediente": 6020,
+  "Expediente": "Arrendamiento de vehículos destinados a la Policía Local",
+  "Tipo_contrato": "SuministrosAlquiler",
+  "Estado": "Resuelta",
+  "Importe": 75619.84,
+  "Fecha": "2018-01-08T00:00:00",
+  "Organo_contratacion": "Junta de Gobierno del Ayuntamiento de Alcalá de Henares",
+  "Subvencion_estado": "Si",
+  "Concejalias": [
+    "Juventud",
+    "Deportes"
+  ]
+},
+{
+  "_id": 99,
+  "Codigo_expediente": 6102,
+  "Expediente": "Equipos de protección individual y equipos de protección colectiva para los trabajadores municipales adscritos a la Concejalía de Obras y Servicios.",
+  "Tipo_contrato": "SuministrosAdquisición",
+  "Estado": "Evaluación",
+  "Importe": 37190.08,
+  "Fecha": "2019-04-04T00:00:00",
+  "Organo_contratacion": "Junta de Gobierno del Ayuntamiento de Alcalá de Henares",
+  "Subvencion_estado": "Si",
+  "Concejalias": [
+    "Juventud",
+    "Deportes"
+  ]
+},
+{
+  "_id": 100,
+  "Codigo_expediente": 6053,
+  "Expediente": "Coordinación y gestión del Centro Sociocultural Zulema de la Concejalía de Participación, Ciudadanía y Distritos",
+  "Tipo_contrato": "ServiciosServicios de esparcimiento, culturales y deportivos",
+  "Estado": "Resuelta",
+  "Importe": 60000,
+  "Fecha": "2018-02-11T00:00:00",
+  "Organo_contratacion": "Junta de Gobierno del Ayuntamiento de Alcalá de Henares",
+  "Subvencion_estado": "Si",
+  "Concejalias": [
+    "Juventud",
+    "Deportes"
+  ]
+}]
